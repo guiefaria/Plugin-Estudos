@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{F4F43D9B-2E0C-4C34-AAF2-799E0F4409DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client Scripts", "Client Scripts", "{E280A664-01A1-4E05-8F0F-047BC68EF264}"
+	ProjectSection(SolutionItems) = preProject
+		ContactScripts.js = ContactScripts.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{126AC7E5-A733-4166-A2F6-7E983949598E}"
+	ProjectSection(SolutionItems) = preProject
+		oi.html = oi.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F43D9B-2E0C-4C34-AAF2-799E0F4409DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F43D9B-2E0C-4C34-AAF2-799E0F4409DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F43D9B-2E0C-4C34-AAF2-799E0F4409DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F43D9B-2E0C-4C34-AAF2-799E0F4409DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F8B5FC-EAAC-4D52-8554-BABBDCA6F11A}
+	EndGlobalSection
+EndGlobal
